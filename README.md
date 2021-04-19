@@ -1,5 +1,6 @@
-# pattern-languages
-a collcetion of pattern langauges
+# Pattern Languages
+
+> a study of pattern langauges
 
 
 ## Domain
