@@ -6,9 +6,19 @@ a collcetion of pattern langauges
 
 ### MicroServices
 
-### MicroFrontend
+from: "[A pattern language for microservices](https://microservices.io/patterns/)"
+
+![MicroServices](images/Microservice-PatternLanguage.jpg)
 
 ### Distributed Computing
+
+from: "POSA 4"
+
+![Distributed Computing](images/DistributedComputing-PatternLanguage.png)
+
+### MicroFrontend
+
+Todo
 
 ## Books
 
