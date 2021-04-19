@@ -16,6 +16,10 @@ from: "POSA 4"
 
 ![Distributed Computing](images/DistributedComputing-PatternLanguage.png)
 
+Layer Architecture example
+
+![Distributed Computing Layer](images/posa-pl-layer.png)
+
 ### MicroFrontend
 
 Todo
